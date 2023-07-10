@@ -1,0 +1,24 @@
+From a90b3f8ca9ecc520016d7ec5e6dc17beda6c64ef Mon Sep 17 00:00:00 2001
+From: Nikita Shantsyn <nshantsyn2003@gmail.com>
+Date: Tue, 11 Jul 2023 00:15:59 +0300
+Subject: [PATCH] Changed 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 828dbaa..4ef1a4b 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-Added firstFile.txt to git_1
+-Added firstFile.txt to git_1
++Changed 2 lines in firstFile.txt in git_1
++Changed 2 lines in firstFile.txt in git_1
+ Added firstFile.txt to git_1
+ Added firstFile.txt to git_1
+ Added firstFile.txt to git_1
+-- 
+2.33.0.windows.2
+
